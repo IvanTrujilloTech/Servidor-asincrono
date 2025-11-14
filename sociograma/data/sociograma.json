@@ -1,0 +1,34 @@
+[
+    {
+        "nombre": "Ivan",
+        "email": "ivantrubar@campus.monlau.com",
+        "grupo": "DAW2",
+        "edad": "20",
+        "preferido_1": "Maria",
+        "preferido_2": "Mateo",
+        "evitar_1": "Laia",
+        "motivo_preferencia": "Son majetes",
+        "rol_habitual": "backend",
+        "lenguaje_fuerte": "python",
+        "experiencia_proyectos": "1",
+        "nivel_git": "4",
+        "comunicacion_pref": "mixta",
+        "herramientas": [
+            "github",
+            "slack"
+        ],
+        "disponibilidad_inicio": "15:30",
+        "disponibilidad_fin": "19:30",
+        "frecuencia_reuniones": "semanal",
+        "gestion_tiempo": "baja",
+        "manejo_estres": "4",
+        "ambiente_trabajo": "musica",
+        "resolucion_conflictos": "Hablando",
+        "dispositivo": "sobremesa",
+        "so_preferido": "windows",
+        "color_equipo": "#1e00ff",
+        "comentarios": "Soy majo y extrovertido",
+        "fecha_respuesta": "2025-10-21",
+        "timestamp_guardado": "2025-10-21 16:46:27"
+    }
+]
